@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+    background-color: purple;
+    color: white;
+}
+
+.active {
+    background-color: #7925d3;
+    color: white;
+}
