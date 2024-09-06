@@ -6,7 +6,7 @@ Here’s an example of a README file content for your investment calculator buil
 
 ## Overview
 
-This is a simple **Investment Calculator** built with React.js. The calculator allows users to input their initial investment, interest rate, and duration to calculate the potential return on investment over time.
+This is a simple **Investment Calculator** built with React.js. The calculator allows users to input their initial investment, interest rate, expected return and duration to calculate the potential return on investment over time.
 
 ## Features
 
