@@ -6,7 +6,6 @@ This repository contains all the projects I've built while learning React.js con
 
 Each folder represents a different React concept or project:
 
-- **Calculator in React** - Basic calculator application
 - **Components & Props** - Understanding React components and props
 - **Dynamic data & State** - Working with state and dynamic data
 - **Form in React** - Form handling and validation
